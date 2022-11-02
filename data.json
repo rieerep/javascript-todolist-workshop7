@@ -1,0 +1,19 @@
+{
+    "todolist":
+    [
+
+    {
+        "ToDo": "vacuum"        
+    },
+    {
+        "ToDo": "study json"
+
+    },
+    {
+        "ToDo": "coffee"
+    },
+    {
+        "ToDo": "Walk in the park"
+    }
+]
+}
