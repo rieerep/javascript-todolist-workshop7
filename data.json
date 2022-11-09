@@ -1,19 +1,26 @@
 {
-    "todolist":
-    [
-
-    {
-        "ToDo": "vacuum"        
-    },
-    {
-        "ToDo": "study json"
-
-    },
-    {
-        "ToDo": "coffee"
-    },
-    {
-        "ToDo": "Walk in the park"
-    }
-]
+    "work": [
+        {
+            "time": "2008-2010",
+            "title": "Taxi driver",
+            "desc": "Drove people from a to b in exchange of money."
+        },
+        {
+            "time": "2010-2012",
+            "title": "Salesman",
+            "desc": "Sold products to customers."
+        }
+    ],
+    "education": [
+        {
+            "time": "2006-2007",
+            "title": "gymnasium",
+            "desc": ""
+        },
+        {
+            "time": "2007-2008",
+            "title": "university",
+            "desc": ""
+        }
+    ]
 }
